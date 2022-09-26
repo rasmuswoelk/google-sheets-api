@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "scripts": {
+    "run-example": "node ./example.js"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "googleapis": "^108.0.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.2"
+  }
+}
